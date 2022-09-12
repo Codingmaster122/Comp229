@@ -1,5 +1,5 @@
 'use strict';
-/* alert("Hi");
+ alert("Hi");
 var age = 20;
 console.log(age);
 console.log("Welcome")
@@ -31,4 +31,3 @@ function runCodeToTerminal() {
 // call the function to run the file.
 runCodeToTerminal();
 */
-//this is a change
